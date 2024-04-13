@@ -130,19 +130,30 @@
                 </ol>
             </li>
         </ul>
-    <h2>Execução</h2>
-    <div align = "Sequencia ideal dos comandos" >
-        <img src="img/readme/figura1.png" height="30%" width="30%">
+    <h2>Execução e Explicação em um exemplo</h2>
+    <p>As Figura 1, mostra a submissão dos comandos de maneira ideal,  seguindo essa sequencia a chance de erro é mínimo, e também é necessário ter o sistema operacional da familia Linux para o funcionamento do código, como é mostrado na figura 4.<p>
+    <div align = "center" >
+        <img src="img/readme/figura1.png" height="80%" width="80%">
         <p>Figura 1: Serie de comandos para a execução do código</p>
     </div>
-    <div align = "Visualização das imagens" >
-        <img src="img/readme/figura2.png" height="30%" width="30%">
+    <dr>
+    <p>A Figura 2, é o resultado que ocorre ao submeter os comando de maneira ideal, na imagem vemos uma aba que mostra os gráficos, para mudar para próximo gráfico há duas maneiras: A primeira é clicando na imagem e segunda é rolar o scroll do mouse.<p>
+    <div align = "center" >
+        <img src="img/readme/figura2.png" height="80%" width="80%">
         <p>Figura 2: A visualização das imagens dos gráficos depois do comando <i>make graph_view</i></p>
     </div>
+    <br>
+    <p>A figura 3 mostra o resultado final dos arquivos. Na pasta <i>datagets</i> fica os arquivos das planilhas criadas e a pasta <i>img/graph</i> ficam as imagens dos gráficos gerados.<p>
     <div align = "center" >
-        <img src="img/readme/figura3.png" height="30%" width="30%">
-        <p>Figura 3: Resultado final do </p>
+        <img src="img/readme/figura3.png" height="50%" width="50%">
+        <p>Figura 3: Resultado final</p>
     </div>
+    <br><br>
+    <div align = "center" >
+        <img src="img/readme/figura4.png" height="50%" width="50%">
+        <p>Figura 4: Configurações do computador utilizado na compilação do programa</p>
+    </div>
+
 
 <br>
     <h2>Referencia</h2>
