@@ -158,8 +158,9 @@
 <br>
     <h2>Referencia</h2>
     <p>
-    <a href="docs/Mimmax.pdf">[1] - Documento da proposta da atividade</a><br>
-    https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170
+    <a href="docs/Mimmax.pdf">[1] - Documento da proposta da atividade</a><br><br>
+    <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170">Guia da Microsoft</a><br><br>
+    <a href="https://acervolima.com/medir-o-tempo-de-execucao-de-uma-funcao-em-c/">Guia do Chrono</a><br>
     </p>
 
 ## Compilação e Execução
